@@ -1,7 +1,7 @@
 import {Component} from 'react';
 import {Button} from 'react-bootstrap';
 import TextLorem from '../../services/text-lorem';
-import TextRender from '../app-reload/text-render';
+import TextRender from '../text-render/text-render';
 
 
 
